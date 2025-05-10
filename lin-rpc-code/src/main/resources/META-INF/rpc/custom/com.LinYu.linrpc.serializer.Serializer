@@ -1,0 +1,4 @@
+jdk=com.LinYu.linrpc.serializer.JdkSerializer
+hessian=com.LinYu.linrpc.serializer.HessianSerializer
+json=com.LinYu.linrpc.serializer.JsonSerializer
+kryo=com.LinYu.linrpc.serializer.KryoSerializer
